@@ -20,6 +20,8 @@ import idc
 import idaapi
 import re
 import json
+import sys
+sys.path.append('C:\\Python27\\Lib\\site-packages')
 from keystone import *
 
 
